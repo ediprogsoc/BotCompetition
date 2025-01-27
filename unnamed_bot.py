@@ -8,4 +8,4 @@ def decision_function(my_history: list[bool], opponent_history: list[bool]) -> b
     decision = None
     # Write Your code here
     ...
-    return decision  # (True to co-operate, False to defer)
+    return decision  # True to co-operate, False to defer
